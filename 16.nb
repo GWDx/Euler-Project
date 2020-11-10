@@ -1,0 +1,64 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1465,         54]
+NotebookOptionsPosition[      1002,         36]
+NotebookOutlinePosition[      1390,         53]
+CellTagsIndexPosition[      1347,         50]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Total", "@", 
+  RowBox[{"IntegerDigits", "@", 
+   SuperscriptBox["2", "1000"]}]}]], "Input",
+ CellChangeTimes->{{3.8118350083374605`*^9, 
+  3.8118350536911364`*^9}},ExpressionUUID->"b1a96c2a-0e72-44c7-9c29-\
+ca166700582a"],
+
+Cell[BoxData["1366"], "Output",
+ CellChangeTimes->{{3.811835049117371*^9, 
+  3.811835054204794*^9}},ExpressionUUID->"b3390d23-f571-4fdb-87e7-\
+4f313b1398c6"]
+}, Open  ]]
+},
+WindowSize->{759, 697},
+WindowMargins->{{Automatic, 88}, {-358, Automatic}},
+Magnification:>1.5 Inherited,
+FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (2017\:5e7410\:67082\
+\:65e5)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 246, 6, 43, "Input",ExpressionUUID->"b1a96c2a-0e72-44c7-9c29-ca166700582a"],
+Cell[829, 30, 157, 3, 81, "Output",ExpressionUUID->"b3390d23-f571-4fdb-87e7-4f313b1398c6"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

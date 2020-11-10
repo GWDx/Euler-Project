@@ -1,0 +1,74 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1874,         66]
+NotebookOptionsPosition[      1410,         48]
+NotebookOutlinePosition[      1797,         65]
+CellTagsIndexPosition[      1754,         62]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Count", "[", 
+  RowBox[{
+   RowBox[{"DateValue", "[", 
+    RowBox[{
+     RowBox[{"Flatten", "@", 
+      RowBox[{"Table", "[", 
+       RowBox[{
+        RowBox[{"DateObject", "@", 
+         RowBox[{"{", 
+          RowBox[{"i", ",", "j", ",", "1"}], "}"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"j", ",", "1", ",", "12"}], "}"}], ",", 
+        RowBox[{"{", 
+         RowBox[{"i", ",", "1901", ",", "2000"}], "}"}]}], "]"}]}], ",", 
+     "\"\<DayName\>\""}], "]"}], ",", "Sunday"}], "]"}]], "Input",
+ CellChangeTimes->{{3.812428189040491*^9, 
+  3.81242830272559*^9}},ExpressionUUID->"f0093f02-c878-4bb2-a69b-\
+6fe5c2ab09e7"],
+
+Cell[BoxData["171"], "Output",
+ CellChangeTimes->{{3.8124282651490746`*^9, 
+  3.812428303411791*^9}},ExpressionUUID->"55b89d85-5e74-4339-9a40-\
+250435703787"]
+}, Open  ]]
+},
+WindowSize->{1536, 781},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+Magnification:>1.7 Inherited,
+FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (2017\:5e7410\:67082\
+\:65e5)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 653, 18, 49, "Input",ExpressionUUID->"f0093f02-c878-4bb2-a69b-6fe5c2ab09e7"],
+Cell[1236, 42, 158, 3, 55, "Output",ExpressionUUID->"55b89d85-5e74-4339-9a40-250435703787"]
+}, Open  ]]
+}
+]
+*)
+
